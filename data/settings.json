@@ -1,0 +1,17 @@
+{
+  "companyName": "LGP",
+  "companySubtitle": "Construcciones & Herrería",
+  "taxId": "CUIT 30-xxxxxxx-8",
+  "phone": "+54 9 11 3445-5720",
+  "email": "contacto@lgp.com.ar",
+  "address": "Ituzaingó, Buenos Aires",
+  "website": "",
+  "currency": "ARS",
+  "currencySymbol": "$",
+  "defaultIva": 21,
+  "defaultValidityDays": 15,
+  "defaultTerms": "• Validez de la oferta: 15 días corridos desde la fecha de emisión.\n• Forma de pago: 50% de anticipo al aceptar el presupuesto y 50% contra entrega o avance convenido.\n• Los precios están expresados en Pesos Argentinos (ARS) salvo indicación contraria.\n• No incluye trabajos de terceros ni reformas estructurales no especificadas.",
+  "quotePrefix": "LGP-",
+  "nextQuoteNumber": 1002,
+  "updatedAt": "2026-11-11T05:48:54.942Z"
+}

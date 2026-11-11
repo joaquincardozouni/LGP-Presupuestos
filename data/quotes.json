@@ -1,0 +1,158 @@
+[
+  {
+    "number": "LGP-2026-1001",
+    "date": "2026-11-11",
+    "validUntil": "2026-11-26",
+    "status": "Pendiente",
+    "client": {
+      "name": "123",
+      "company": "3123",
+      "taxId": "12312",
+      "phone": "123",
+      "email": "",
+      "address": "",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": "qi-1794372555561-1",
+        "itemId": null,
+        "title": "Servicio / Material a convenir",
+        "description": "",
+        "unit": "unidad",
+        "quantity": 1,
+        "unitPrice": 0,
+        "itemDiscount": 0,
+        "subtotal": 0
+      },
+      {
+        "id": "qi-1794372568346-386",
+        "itemId": "itm-4",
+        "title": "Tabique de Placa de Yeso (Durlock) con Estructura",
+        "description": "Incluye perfiles solera y montante de 70mm, emplacado simple de 12.5mm por ambas caras y tomado de juntas.",
+        "unit": "m²",
+        "quantity": "2",
+        "unitPrice": 24000,
+        "itemDiscount": 0,
+        "subtotal": 48000
+      }
+    ],
+    "checks": {
+      "applyIva": true,
+      "ivaRate": 21,
+      "applyDiscount": true,
+      "discountType": "percent",
+      "discountValue": 0,
+      "applyOtherTax": false,
+      "otherTaxName": "Percepción IIBB",
+      "otherTaxRate": 3.5,
+      "applyShipping": false,
+      "shippingAmount": 0,
+      "shippingNote": "Flete y descarga en obra",
+      "applyLaborExtra": false,
+      "laborExtraAmount": 0,
+      "laborExtraNote": "Montaje especial / Horas extras",
+      "paymentCondition": "50% anticipo al confirmar y 50% contra entrega"
+    },
+    "currency": "ARS",
+    "currencySymbol": "$",
+    "terms": "• Validez de la oferta: 15 días corridos desde la fecha de emisión.\n• Forma de pago: 50% de anticipo al aceptar el presupuesto y 50% contra entrega o avance convenido.\n• Los precios están expresados en Pesos Argentinos (ARS) salvo indicación contraria.\n• No incluye trabajos de terceros, reformas estructurales no especificadas ni permisos municipales extraordinarios.\n• Garantía de mano de obra: 6 meses.",
+    "notes": "",
+    "totals": {
+      "subtotal": 48000,
+      "discountAmount": 0,
+      "netSubtotal": 48000,
+      "ivaAmount": 10080,
+      "otherTaxAmount": 0,
+      "shippingAmount": 0,
+      "laborExtraAmount": 0,
+      "grandTotal": 58080
+    },
+    "id": "quote-1794372577944",
+    "createdAt": "2026-11-11T04:49:37.944Z",
+    "updatedAt": "2026-11-11T04:49:37.944Z"
+  },
+  {
+    "id": "quote-sample-1",
+    "number": "LGP-2026-1001",
+    "date": "2026-11-10",
+    "validUntil": "2026-11-25",
+    "status": "Aprobado",
+    "client": {
+      "name": "Martín Rodríguez",
+      "company": "Estudio Creativo Sur",
+      "taxId": "20-33445566-9",
+      "phone": "+54 9 11 6789-0123",
+      "email": "martin@estudiosur.com.ar",
+      "address": "Palermo Soho, CABA",
+      "notes": "Horario de obra de 8:30 a 17:00 hs."
+    },
+    "items": [
+      {
+        "id": "qi-1",
+        "itemId": "itm-2",
+        "title": "Pintura Látex Interior - Oficinas Principales",
+        "description": "2 manos de látex lavable satinado en paredes de sala de reuniones y recepción (85 m²)",
+        "unit": "m²",
+        "quantity": 85,
+        "unitPrice": 6500,
+        "itemDiscount": 0,
+        "subtotal": 552500
+      },
+      {
+        "id": "qi-2",
+        "itemId": "itm-4",
+        "title": "División de Oficinas con Tabique Durlock acústico",
+        "description": "Tabique divisorio de 70mm con lana de vidrio para aislación sonora (32 m²)",
+        "unit": "m²",
+        "quantity": 32,
+        "unitPrice": 24000,
+        "itemDiscount": 5,
+        "subtotal": 729600
+      },
+      {
+        "id": "qi-3",
+        "itemId": "itm-6",
+        "title": "Bocas Eléctricas y Tomas para Puestos de Trabajo",
+        "description": "Instalación de 8 puestos de tomas dobles estabilizados",
+        "unit": "unidad",
+        "quantity": 8,
+        "unitPrice": 16000,
+        "itemDiscount": 0,
+        "subtotal": 128000
+      }
+    ],
+    "checks": {
+      "applyIva": true,
+      "ivaRate": 21,
+      "applyDiscount": true,
+      "discountType": "percent",
+      "discountValue": 5,
+      "applyOtherTax": false,
+      "otherTaxName": "Percepción IIBB",
+      "otherTaxRate": 3.5,
+      "applyShipping": true,
+      "shippingAmount": 45000,
+      "shippingNote": "Entrega directa de placas y pintura en obra",
+      "applyLaborExtra": false,
+      "laborExtraAmount": 0,
+      "laborExtraNote": ""
+    },
+    "currency": "ARS",
+    "currencySymbol": "$",
+    "terms": "• Validez de la oferta: 15 días corridos.\n• Anticipo 50% al iniciar y 50% al finalizar las etapas.",
+    "notes": "Presupuesto inicial para remodelación oficinas Palermo.",
+    "totals": {
+      "subtotal": 1410100,
+      "discountAmount": 70505,
+      "netSubtotal": 1339595,
+      "ivaAmount": 281314.95,
+      "otherTaxAmount": 0,
+      "shippingAmount": 45000,
+      "laborExtraAmount": 0,
+      "grandTotal": 1665909.95
+    },
+    "createdAt": "2026-11-10T14:30:00.000Z",
+    "updatedAt": "2026-11-11T04:37:22.132Z"
+  }
+]

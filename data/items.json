@@ -1,0 +1,101 @@
+[
+  {
+    "id": "itm-2",
+    "code": "PIN-002",
+    "name": "Pintura Látex Interior Premium",
+    "category": "Pintura",
+    "unit": "m²",
+    "price": 6500,
+    "description": "Preparación de superficie (lijado, enduido puntual), aplicación de 2 manos de látex lavable."
+  },
+  {
+    "id": "itm-3",
+    "code": "PIN-003",
+    "name": "Pintura Exterior Impermeabilizante",
+    "category": "Pintura",
+    "unit": "m²",
+    "price": 8900,
+    "description": "Limpieza profunda, sellador fijador al agua y 3 manos de membrana líquida o pintura elastomérica."
+  },
+  {
+    "id": "itm-4",
+    "code": "DURL-004",
+    "name": "Tabique de Placa de Yeso (Durlock) con Estructura",
+    "category": "Construcción en Seco",
+    "unit": "m²",
+    "price": 24000,
+    "description": "Incluye perfiles solera y montante de 70mm, emplacado simple de 12.5mm por ambas caras y tomado de juntas."
+  },
+  {
+    "id": "itm-5",
+    "code": "DURL-005",
+    "name": "Cielorraso Suspendido de Yeso",
+    "category": "Construcción en Seco",
+    "unit": "m²",
+    "price": 21500,
+    "description": "Estructura galvanizada suspendida, placas estándar 9.5mm, encintado y masillado listo para pintar."
+  },
+  {
+    "id": "itm-6",
+    "code": "ELEC-006",
+    "name": "Boca de Electricidad Completa",
+    "category": "Electricidad",
+    "unit": "unidad",
+    "price": 16000,
+    "description": "Cableado normalizado antillama, colocación de módulo, bastidor y placa tapa para tomas o iluminación."
+  },
+  {
+    "id": "itm-7",
+    "code": "PLOM-007",
+    "name": "Instalación de Punto Sanitario Termofusión",
+    "category": "Instalaciones",
+    "unit": "unidad",
+    "price": 28000,
+    "description": "Canaleteo, colocación de cañerías en termofusión para agua fría/caliente y prueba de presión."
+  },
+  {
+    "id": "itm-8",
+    "code": "MAT-008",
+    "name": "Bolsa de Cemento Portland 50kg",
+    "category": "Materiales",
+    "unit": "bolsa",
+    "price": 13500,
+    "description": "Cemento normal de primera marca para albañilería y contrapisos."
+  },
+  {
+    "id": "itm-9",
+    "code": "MAT-009",
+    "name": "Bolsa de Pegamento para Porcelanato 30kg",
+    "category": "Materiales",
+    "unit": "bolsa",
+    "price": 19800,
+    "description": "Adhesivo cementicio flexible de alta adherencia para piezas de gran formato."
+  },
+  {
+    "id": "itm-10",
+    "code": "SERV-010",
+    "name": "Dirección Técnica y Supervisión de Obra",
+    "category": "Servicios",
+    "unit": "hora",
+    "price": 25000,
+    "description": "Control de calidad, coordinación de gremios y seguimiento de cronograma en sitio."
+  },
+  {
+    "id": "itm-11",
+    "code": "SERV-011",
+    "name": "Flete y Descarga de Materiales en Obra",
+    "category": "Servicios",
+    "unit": "global",
+    "price": 65000,
+    "description": "Transporte en camión utilitario y descarga a pie de obra en radio de cobertura."
+  },
+  {
+    "id": "itm-12",
+    "code": "REV-012",
+    "name": "Piso Flotante Vinílico SPC / Melamínico",
+    "category": "Revestimientos",
+    "unit": "m²",
+    "price": 14200,
+    "description": "Colocación de manta acústica aislante, encastre de tablas y zócalos perimetrales."
+  }
+]
